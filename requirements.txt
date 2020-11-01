@@ -1,0 +1,9 @@
+d6tcollect==1.0.5
+d6tstack==0.2.0
+numpy==1.19.3
+pandas==1.1.4
+python-dateutil==2.8.1
+pytz==2020.1
+scipy==1.5.3
+six==1.15.0
+SQLAlchemy==1.3.20
